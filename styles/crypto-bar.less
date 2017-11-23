@@ -1,0 +1,38 @@
+ul#crypo-bar {
+  display: inline-block;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    display: inline-block;
+    padding: 0 0 0 12px;
+    position: relative;
+    margin: 0;
+
+    img {
+      margin: 0 6px 0 0;
+      height: 13px;
+      width: 13px;
+    }
+
+    span {
+
+    }
+
+    &:hover {
+      color: transparent;
+    }
+
+    &:hover::after {
+      content: attr(data-description);
+      position: absolute;
+      overflow: hidden;
+      display: block;
+      color: #a3a8ae;
+      width: 68%;
+      left: 31px;
+      bottom: 0;
+    }
+  }
+}
