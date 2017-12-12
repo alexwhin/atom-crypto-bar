@@ -61,7 +61,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexwhin/atom-crypto-bar.git"
+    "url": "https://github.com/alexwhin/atom-crypto-bar.git"
   },
   "version": "0.4.0"
 }
