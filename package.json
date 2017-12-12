@@ -1,9 +1,43 @@
 {
-  "name": "atom-crypto-bar",
-  "main": "./lib/crypto-bar",
-  "version": "0.2.0",
-  "description": "Live crypto currency tracker for Atom.io",
-  "keywords": [],
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/2t/3jh6f4ls3yj54vq5yhh8l2l40000gn/T/d-1171023-72344-hv2z9j.oxshxe0zfr/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/2t/3jh6f4ls3yj54vq5yhh8l2l40000gn/T/d-1171023-72344-hv2z9j.oxshxe0zfr/package.tgz",
+        "spec": "/private/var/folders/2t/3jh6f4ls3yj54vq5yhh8l2l40000gn/T/d-1171023-72344-hv2z9j.oxshxe0zfr/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/2t/3jh6f4ls3yj54vq5yhh8l2l40000gn/T/apm-install-dir-1171023-72344-1p7zudg.272we6zuxr"
+    ]
+  ],
+  "_from": "../d-1171023-72344-hv2z9j.oxshxe0zfr/package.tgz",
+  "_id": "atom-crypto-bar@0.2.0",
+  "_inCache": true,
+  "_location": "/atom-crypto-bar",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/2t/3jh6f4ls3yj54vq5yhh8l2l40000gn/T/d-1171023-72344-hv2z9j.oxshxe0zfr/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/2t/3jh6f4ls3yj54vq5yhh8l2l40000gn/T/d-1171023-72344-hv2z9j.oxshxe0zfr/package.tgz",
+    "spec": "/private/var/folders/2t/3jh6f4ls3yj54vq5yhh8l2l40000gn/T/d-1171023-72344-hv2z9j.oxshxe0zfr/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-1171023-72344-hv2z9j.oxshxe0zfr/package.tgz",
+  "_shasum": "9d523d169c3a71cb578124f259eea900fca1c065",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/2t/3jh6f4ls3yj54vq5yhh8l2l40000gn/T/d-1171023-72344-hv2z9j.oxshxe0zfr/package.tgz",
+  "_where": "/private/var/folders/2t/3jh6f4ls3yj54vq5yhh8l2l40000gn/T/apm-install-dir-1171023-72344-1p7zudg.272we6zuxr",
+  "bugs": {
+    "url": "https://github.com/alexwhin/atom-crypto-bar/issues"
+  },
   "consumedServices": {
     "status-bar": {
       "versions": {
@@ -11,9 +45,23 @@
       }
     }
   },
-  "repository": "https://github.com/alexwhin/atom-crypto-bar",
-  "license": "MIT",
+  "dependencies": {},
+  "description": "Live crypto currency tracker for Atom.io",
+  "devDependencies": {},
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
-  }
+  },
+  "homepage": "https://github.com/alexwhin/atom-crypto-bar#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/crypto-bar",
+  "name": "atom-crypto-bar",
+  "optionalDependencies": {},
+  "readme": "Atom Crypto Bar ⚡️\n=================\nLive crypto currency tracker for Atom IDE with the ability to select multiple currencies in USD & GBP.\n\n![Status bar preview](https://raw.githubusercontent.com/alexwhin/atom-crypto-bar/master/screenshots/bar.png)\n\nInstallation\n------------\nOpen **Settings** → **Install** and search for `atom-crypto-bar`.\n\nAlternatively, install through command-line:\n\n\tapm install atom-crypto-bar\n\nDonate\n------\n\nFound this package useful? I'm happy to accept crypto donations 😉\n\n```\nBTC: 1DK6S3GbGmWT35sEKCL1wUnCmphSMMB8jZ\nLTC: LNBkRsdJ36HSLF5Fspr2mKD38AFZAcrPgL\nETH: 0x0406126dd313eaa7fca9ECdf6e1F72bA6B4fF6Ec\n```\n\nCredits\n-------\n\nReleased under The MIT License originally developed by Alex Whinfield.\n\nIcons provided by https://github.com/cjdowner/cryptocurrency-icons 👏\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexwhin/atom-crypto-bar.git"
+  },
+  "version": "0.3.0"
 }

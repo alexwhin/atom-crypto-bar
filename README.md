@@ -23,6 +23,12 @@ LTC: LNBkRsdJ36HSLF5Fspr2mKD38AFZAcrPgL
 ETH: 0x0406126dd313eaa7fca9ECdf6e1F72bA6B4fF6Ec
 ```
 
+Development
+-------
+
+1. Clone repo into your atom package directory ``~/.atom/packages/atom-crypto-bar``
+2. After you have made changes reload using <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>CMD</kbd> + <kbd>L</kbd>
+
 Credits
 -------
 
