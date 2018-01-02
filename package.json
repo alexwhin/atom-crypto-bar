@@ -52,7 +52,13 @@
     "atom": ">=0.174.0 <2.0.0"
   },
   "homepage": "https://github.com/alexwhin/atom-crypto-bar#readme",
-  "keywords": [],
+  "keywords": [
+    "crypocurrency",
+    "bitcoin",
+    "ethereum",
+    "litecoin",
+    "ripple"
+  ],
   "license": "MIT",
   "main": "./lib/crypto-bar",
   "name": "atom-crypto-bar",
