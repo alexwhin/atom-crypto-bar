@@ -12,17 +12,6 @@ Alternatively, install through command-line:
 
 	apm install atom-crypto-bar
 
-Donate
-------
-
-Found this package useful? I'm happy to accept crypto donations 😉
-
-```
-BTC: 1DK6S3GbGmWT35sEKCL1wUnCmphSMMB8jZ
-LTC: LNBkRsdJ36HSLF5Fspr2mKD38AFZAcrPgL
-ETH: 0x0406126dd313eaa7fca9ECdf6e1F72bA6B4fF6Ec
-```
-
 Development
 -------
 
